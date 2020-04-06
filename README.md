@@ -1,4 +1,4 @@
-# Predict whether or nor a borrower will pay back their loan 
+# Predict if a borrower will pay back his loan 
 ## Using Tensorflow and Keras
 
 (Source: https://www.kaggle.com/wordsforthewise/lending-club)
